@@ -7,7 +7,7 @@
 
 ## <img src= "https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="23px" > About us
 
-- <b>[Раян Христов](https://github.com/RSHristov20) -> 9B -> SCRUM Trainer </b>
+- <b>[Раян Христов](https://github.com/RSHristov20) -> 9B -> Scrum Trainer </b>
 - <b>[Стефан Чапкънов](https://github.com/SNChapkanov20) -> 9B -> Q&A</b>
 - <b>[Йордан Жечев](https://github.com/YBZhechev20) -> 9B -> Backend Developer </b>
 - <b>[Александър Фотев](https://github.com/ABFotev20) -> 9B -> Backend Developer </b>
